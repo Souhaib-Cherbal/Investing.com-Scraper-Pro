@@ -1,9 +1,4 @@
 
-
-## :warning: `investpy` is not working fine currently due to some Investing.com changes in their APIs, so please use [`investiny`](https://github.com/alvarobartt/investiny) in the meantime as I'm actively updating it and adding more and more features of some temporary solutions while we fix `investpy`. Thanks!
-
-<h2 align="center">Financial Data Extraction from Investing.com with Python</h2>
-
 investpy is a Python package to retrieve data from [Investing.com](https://www.investing.com/), which provides data retrieval 
 from up to 39952 stocks, 82221 funds, 11403 ETFs, 2029 currency crosses, 7797 indices, 688 bonds, 66 commodities, 250 certificates, 
 and 4697 cryptocurrencies.
