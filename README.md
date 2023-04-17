@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/alvarobartt/investpy/master/docs/source/_static/logo.png" hspace="20">
-</p>
+
 
 ## :warning: `investpy` is not working fine currently due to some Investing.com changes in their APIs, so please use [`investiny`](https://github.com/alvarobartt/investiny) in the meantime as I'm actively updating it and adding more and more features of some temporary solutions while we fix `investpy`. Thanks!
 
@@ -24,9 +22,7 @@ investpy to be one of the most consistent packages when it comes to financial da
 [![Build Status](https://github.com/alvarobartt/investpy/workflows/run_tests/badge.svg)](https://github.com/alvarobartt/investpy/actions?query=workflow%3Arun_tests)
 [![Documentation Status](https://readthedocs.org/projects/investpy/badge/?version=latest)](https://investpy.readthedocs.io/)
 
-**If you want to support the project, you can buy the developer a coffee. More information at: [buy-me-a-coffee](https://github.com/alvarobartt/buy-me-a-coffee)**
 
-<p align="center"><a href="https://www.buymeacoffee.com/alvarobartt" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a></p>
 
 ---
 
