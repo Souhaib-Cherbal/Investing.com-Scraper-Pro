@@ -1,5 +1,6 @@
 
-investpy is a Python package to retrieve data from [Investing.com](https://www.investing.com/), which provides data retrieval 
+
+Investing.com-Scraper-Pro is a Python package to retrieve data from [Investing.com](https://www.investing.com/), which provides data retrieval 
 from up to 39952 stocks, 82221 funds, 11403 ETFs, 2029 currency crosses, 7797 indices, 688 bonds, 66 commodities, 250 certificates, 
 and 4697 cryptocurrencies.
 
