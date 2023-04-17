@@ -216,23 +216,12 @@ included in the package short description title.
 
 ---
 
-## :man_technologist: Contact Information
-
-You can contact me at any of my social network profiles:
-
-- :briefcase: LinkedIn: https://linkedin.com/in/alvarobartt
-- :bird: Twitter: https://twitter.com/alvarobartt
-- :octocat: GitHub: https://github.com/alvarobartt
-
-Or via email at alvarobartt@yahoo.com.
-
----
 
 ## :warning: Disclaimer
 
 This Python package has been made for **research purposes** to fit the needs that Investing.com does not cover, 
 so this package works like an Application Programming Interface (API) of Investing.com developed in an **altruistic way**.
 
-Conclude that **investpy is not affiliated in any way to Investing.com or any dependant company**, the only 
+Conclude that **Investing.com-Scraper-Pro is not affiliated in any way to Investing.com or any dependant company**, the only 
 requirement specified by Investing.com to develop this package was to "mention the source where data is 
 retrieved from".
